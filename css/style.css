@@ -54,19 +54,19 @@ h2{
     height: 550px;
     width: 400px;
 }
-#recipieArea-title{
+#recipeArea-title{
     width: 600px;
     margin: auto;
     text-align: center;
 }
-.recipie-area{
+.recipe-area{
     box-shadow: 5px 5px 20px lightgray;
     padding: 20px;
     margin: 20px;
     height: 500px;
     border-radius: 30px;
 }
-.recipie-area img{
+.recipe-area img{
     width: 100%;
 }
 #socialMedia{
