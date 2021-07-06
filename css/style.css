@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+section{
+    padding: 80px 0;
+}
+h1{
+    font-size: 45px;
+    font-weight: 800;
+}
+h2{
+    font-size: 35px;
+}
+.display-flex{
+    display: flex;
+    align-items: center;
+}
+.col-50{
+    width: 50%;
+    float: left;
+    margin-left: 5%;
+    padding: 0 120px;
+}
+.col-30{
+    width: 30%;
+    float: left;
+}
+.color-orange{
+    color: #FBA24F;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, #FBA24F, #FF1E1E);
+    padding: 15px 30px;
+    border-radius: 25px;
+    color: white;
+}
+.col-50 img{
+    width: 100%;
+}
+.col-50 p{
+    padding-bottom: 30px;
+}
+#aboutmePart{
+    background-image: url(../images/shapes/Frame\ 58.jpg);
+    background-size: cover;
+    padding-bottom: 0;
+}
+#aboutmePart img{
+    height: 550px;
+    width: 400px;
+}
+#recipieArea-title{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+.recipie-area{
+    box-shadow: 5px 5px 20px lightgray;
+    padding: 20px;
+    margin: 20px;
+    height: 500px;
+    border-radius: 30px;
+}
+.recipie-area img{
+    width: 100%;
+}
+#socialMedia{
+    border: 10px solid black;
+    box-shadow: 10px 10px 20px gray;
+    padding-bottom: 30px;
+}
+footer{
+    background-color: black;
+    color: lightgray;
+    padding: 30px 0;
+    text-align: center;
+}
